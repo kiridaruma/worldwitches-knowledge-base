@@ -21,29 +21,29 @@
     schema:name "リネット・ビショップ"@ja.
 
 <PerrineH_Clostermann>
-    a wwv:Witch
+    a wwv:Witch;
     schema:name "ペリーヌ・クロステルマン"@ja.
 
 <Gertrud_Barkhorn>
-    a wwv:Witch
+    a wwv:Witch;
     schema:name "ゲルトルート・バルクホルン"@ja.
 
 <Erica_Hartmann>
-    a wwv:Witch
+    a wwv:Witch;
     schema:name "エーリカ・ハルトマン"@ja.
 
 <Francesca_Lucchini>
-    a wwv:Witch
+    a wwv:Witch;
     schema:name "フランチェスカ・ルッキーニ"@ja.
 
 <Charlotte_E_Yeager>
-    a wwv:Witch
+    a wwv:Witch;
     schema:name "シャーロット・E・イェーガー"@ja.
 
 <Sanya_V_Litvyak>
-    a wwv:Witch
+    a wwv:Witch;
     schema:name "サーニャ・V・リトヴャク"@ja.
 
 <Eila_Ilmatar_Juutilainen>
-    a wwv:Witch
+    a wwv:Witch;
     schema:name "エイラ・イルマタル・ユーティライネン"@ja.
