@@ -1,4 +1,4 @@
-@base <https://wwkb.kiridaruma.net/resources/501.ttl#>
+@base <https://wwkb.kiridaruma.net/resources/501.ttl#>.
 @prefix wwv: <http://wwkb.kiridaruma.net/resources/vocabulary.ttl#>.
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#>.
@@ -6,44 +6,44 @@
 
 <Yoshika_Miyafuji>
     a wwv:Witch;
-    schema:name "宮藤芳佳"@ja;
+    schema:name "宮藤芳佳"@ja.
 
 <Sakamoto_Mio>
     a wwv:Witch;
-    schema:name "坂本美緒"@ja;
+    schema:name "坂本美緒"@ja.
 
 <MinnaDietlinde_Wilcke>
     a wwv:Witch;
-    schema:name "ミーナ・ディートリンデ・ヴィルケ"@ja;
+    schema:name "ミーナ・ディートリンデ・ヴィルケ"@ja.
 
 <Lynette_Bishop>
     a wwv:Witch;
-    schema:name "リネット・ビショップ"@ja;
+    schema:name "リネット・ビショップ"@ja.
 
 <PerrineH_Clostermann>
-    a wwv:Witch
-    schema:name "ペリーヌ・クロステルマン"@ja;
+    a wwv:Witch;
+    schema:name "ペリーヌ・クロステルマン"@ja.
 
 <Gertrud_Barkhorn>
-    a wwv:Witch
-    schema:name "ゲルトルート・バルクホルン"@ja;
+    a wwv:Witch;
+    schema:name "ゲルトルート・バルクホルン"@ja.
 
 <Erica_Hartmann>
-    a wwv:Witch
-    schema:name "エーリカ・ハルトマン"@ja;
+    a wwv:Witch;
+    schema:name "エーリカ・ハルトマン"@ja.
 
 <Francesca_Lucchini>
-    a wwv:Witch
-    schema:name "フランチェスカ・ルッキーニ"@ja;
+    a wwv:Witch;
+    schema:name "フランチェスカ・ルッキーニ"@ja.
 
 <Charlotte_E_Yeager>
-    a wwv:Witch
-    schema:name "シャーロット・E・イェーガー"@ja;
+    a wwv:Witch;
+    schema:name "シャーロット・E・イェーガー"@ja.
 
 <Sanya_V_Litvyak>
-    a wwv:Witch
-    schema:name "サーニャ・V・リトヴャク"@ja;
+    a wwv:Witch;
+    schema:name "サーニャ・V・リトヴャク"@ja.
 
 <Eila_Ilmatar_Juutilainen>
-    a wwv:Witch
-    schema:name "エイラ・イルマタル・ユーティライネン"@ja;
+    a wwv:Witch;
+    schema:name "エイラ・イルマタル・ユーティライネン"@ja.
