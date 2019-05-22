@@ -4,7 +4,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#>.
 @prefix schema: <https://schema.org/>.
 
-<Yoshika_Miyafuji>
+<Miyafuji_Yoshika>
     a wwv:Witch;
     schema:name "宮藤芳佳"@ja.
 
