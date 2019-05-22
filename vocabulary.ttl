@@ -11,3 +11,8 @@
     a rdfs:Class;
     rdfs:subClassOf wwkb:Person;
     rdfs:label "ウィッチ"@ja.
+
+<Country>
+    a rdfs:Class;
+    rdfs:subClassOf schema:Country;
+    rdfs:label "ワールドウィッチーズシリーズの国家"@ja.

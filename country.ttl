@@ -1,0 +1,39 @@
+@base <https://wwkb.kiridaruma.net/resources/country.ttl#>.
+@prefix wwv: <https://wwkb.kiridaruma.net/resources/vocabulary.ttl#>.
+@prefix schema: <https://schema.org/>.
+
+<Fuso>
+    a wwv:Country;
+    schema:name "扶桑皇国"@ja.
+
+<Britannia>
+    a wwv:Country;
+    schema:name "ブリタニア連邦"@ja.
+
+<Karlsland>
+    a wwv:Country;
+    schema:name "帝政カールスラント"@ja.
+
+<Gallia>
+    a wwv:Country;
+    schema:name "ガリア共和国"@ja.
+
+<Romagna>
+    a wwv:Country;
+    schema:name "ロマーニャ公国"@ja.
+
+<Venizia>
+    a wwv:Country;
+    schema:name "ヴェネツィア公国"@ja.
+
+<Orussia>
+    a wwv:Country;
+    schema:name "オラーシャ帝国"@ja.
+
+<Suomus>
+    a wwv:Country;
+    schema:name "スオムス"@ja.
+
+<Liberion>
+    a wwv:Country;
+    schema:name "リベリオン合衆国"@ja.
