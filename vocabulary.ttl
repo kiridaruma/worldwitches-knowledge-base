@@ -3,11 +3,11 @@
 @prefix schema: <https://schema.org/>.
 
 <Person>
-    a rdfs:Class
-    rdfs:subClassOf schema:Person
-    rdfs:label "ワールドウィッチーズシリーズの登場人物"@ja
+    a rdfs:Class;
+    rdfs:subClassOf schema:Person;
+    rdfs:label "ワールドウィッチーズシリーズの登場人物"@ja.
 
 <Witch>
-    a rdfs:Class
-    rdfs:subClassOf wwkb:Person.
-    rdfs:label "ウィッチ"@ja;
+    a rdfs:Class;
+    rdfs:subClassOf wwkb:Person;
+    rdfs:label "ウィッチ"@ja.
