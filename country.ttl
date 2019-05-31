@@ -1,4 +1,4 @@
-@base <https://wwkb.kiridaruma.net/resources/country.ttl#>.
+@base <https://wwkb.kiridaruma.net/resources/>.
 @prefix wwv: <https://wwkb.kiridaruma.net/resources/vocabulary.ttl#>.
 @prefix schema: <https://schema.org/>.
 
