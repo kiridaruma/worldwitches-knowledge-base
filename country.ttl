@@ -4,36 +4,45 @@
 
 <Fuso>
     a wwv:Country;
+    schema:alternateName "扶桑"@ja;
     schema:name "扶桑皇国"@ja.
 
 <Britannia>
     a wwv:Country;
+    schema:alternateName "ブリタニア"@ja;
     schema:name "ブリタニア連邦"@ja.
 
 <Karlsland>
     a wwv:Country;
+    schema:alternateName "カールスラント"@ja;
     schema:name "帝政カールスラント"@ja.
 
 <Gallia>
     a wwv:Country;
+    schema:alternateName "ガリア"@ja;
     schema:name "ガリア共和国"@ja.
 
 <Romagna>
     a wwv:Country;
+    schema:alternateName "ロマーニャ"@ja;
     schema:name "ロマーニャ公国"@ja.
 
 <Venizia>
     a wwv:Country;
+    schema:alternateName "ヴェネツィア"@ja;
     schema:name "ヴェネツィア公国"@ja.
 
 <Orussia>
     a wwv:Country;
+    schema:alternateName "オラーシャ"@ja;
     schema:name "オラーシャ帝国"@ja.
 
 <Suomus>
     a wwv:Country;
+    schema:alternateName "スオムス"@ja;
     schema:name "スオムス"@ja.
 
 <Liberion>
     a wwv:Country;
+    schema:alternateName "リベリオン"@ja;
     schema:name "リベリオン合衆国"@ja.

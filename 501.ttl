@@ -6,54 +6,65 @@
 <Miyafuji_Yoshika>
     a wwv:Witch;
     schema:birthDate "1929-8-18";
+    schema:nationality <Fuso>;
     schema:name "宮藤芳佳"@ja.
 
 <Sakamoto_Mio>
     a wwv:Witch;
     schema:birthDate "1924-8-26";
+    schema:nationality <Fuso>;
     schema:name "坂本美緒"@ja.
 
 <MinnaDietlinde_Wilcke>
     a wwv:Witch;
     schema:birthDate "1925-3-11";
+    schema:nationality <Karlsland>;
     schema:name "ミーナ・ディートリンデ・ヴィルケ"@ja.
 
 <Lynette_Bishop>
     a wwv:Witch;
     schema:birthDate "1929-6-11";
+    schema:nationality <Britannia>;
     schema:name "リネット・ビショップ"@ja.
 
 <PerrineH_Clostermann>
     a wwv:Witch;
     schema:birthDate "1929-2-28";
+    schema:nationality <Gallia>;
     schema:name "ペリーヌ・クロステルマン"@ja.
 
 <Gertrud_Barkhorn>
     a wwv:Witch;
     schema:birthDate "1925-3-20";
+    schema:nationality <Karlsland>;
     schema:name "ゲルトルート・バルクホルン"@ja.
 
 <Erica_Hartmann>
     a wwv:Witch;
     schema:birthDate "1928-4-19";
+    schema:nationality <Karlsland>;
     schema:name "エーリカ・ハルトマン"@ja.
 
 <Francesca_Lucchini>
     a wwv:Witch;
     schema:birthDate "1931-12-24";
+    schema:nationality <Romagna>;
     schema:name "フランチェスカ・ルッキーニ"@ja.
 
 <Charlotte_E_Yeager>
     a wwv:Witch;
     schema:birthDate "1928-2-13";
+    schema:nationality <Liberion>;
     schema:name "シャーロット・E・イェーガー"@ja.
 
 <Sanya_V_Litvyak>
     a wwv:Witch;
     schema:birthDate "1930-8-18";
+    schema:nationality <Orussia>;
     schema:name "サーニャ・V・リトヴャク"@ja.
 
 <Eila_Ilmatar_Juutilainen>
     a wwv:Witch;
     schema:birthDate "1929-2-21";
+    schema:nationality <Suomus>;
     schema:name "エイラ・イルマタル・ユーティライネン"@ja.
