@@ -9,7 +9,7 @@
 
 <Witch>
     a rdfs:Class;
-    rdfs:subClassOf wwkb:Person;
+    rdfs:subClassOf <Person>;
     rdfs:label "ウィッチ"@ja.
 
 <Country>
